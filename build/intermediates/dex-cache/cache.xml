@@ -1,0 +1,140 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="false"
+        jar="F:\Android\DayGram-master\app\build\intermediates\exploded-aar\com.android.support\support-compat\24.2.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.2"
+        sha1="0ecb4b595fa0f0f8018a149ace3ea6525624f94e">
+        <dex dex="F:\Android\DayGram-master\app\build\intermediates\pre-dexed\debug\com.android.support-support-compat-24.2.1_fc153e211775288c3594dbb8361d764557344ade.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="F:\Android\DayGram-master\app\build\intermediates\exploded-aar\com.android.support\support-core-ui\24.2.1\jars\libs\internal_impl-24.2.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.2"
+        sha1="867dad63c33388ff8c7644b236579355036d075f">
+        <dex dex="F:\Android\DayGram-master\app\build\intermediates\pre-dexed\debug\internal_impl-24.2.1_02d7aaab9be64f3f39129d1a34250eee6527c97f.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="F:\Android\DayGram-master\app\build\intermediates\exploded-aar\com.android.support\support-media-compat\24.2.1\jars\libs\internal_impl-24.2.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.2"
+        sha1="fbf8da429efd5ad21e02e3e5ecaa1efc4167878d">
+        <dex dex="F:\Android\DayGram-master\app\build\intermediates\pre-dexed\debug\internal_impl-24.2.1_f8145798f56afe2e853e95b64f33aed44c682d4f.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="F:\Android\DayGram-master\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\24.2.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.2"
+        sha1="43b2dba6b5a0b14527961b75329d0b90025f15ea">
+        <dex dex="F:\Android\DayGram-master\app\build\intermediates\pre-dexed\debug\com.android.support-appcompat-v7-24.2.1_2d524a501aaeaf58bf0a45b8855c73b691304e74.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="F:\Android\DayGram-master\app\build\intermediates\exploded-aar\com.android.support\support-core-utils\24.2.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.2"
+        sha1="9c4c3bc902450c39ed54de170db4fb12aea20a35">
+        <dex dex="F:\Android\DayGram-master\app\build\intermediates\pre-dexed\debug\com.android.support-support-core-utils-24.2.1_22d379f8cfacbcaa0ba6145e17f894f9a954424a.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="F:\Android\DayGram-master\app\build\intermediates\exploded-aar\com.android.support\support-fragment\24.2.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.2"
+        sha1="b9a1ac78ad7ef3abedc4a4b30cd92bcacb939d1f">
+        <dex dex="F:\Android\DayGram-master\app\build\intermediates\pre-dexed\debug\com.android.support-support-fragment-24.2.1_01e669e2e5fe2777fc240be4ad4781eaeb6ca4f2.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="F:\Android\DayGram-master\app\build\intermediates\exploded-aar\com.android.support\support-vector-drawable\24.2.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.2"
+        sha1="d5c731fc64c03dfe04d51134955b483551c35849">
+        <dex dex="F:\Android\DayGram-master\app\build\intermediates\pre-dexed\debug\com.android.support-support-vector-drawable-24.2.1_1736dd51bd98f975cb4df7f0da3321b1d988eeb5.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="F:\Android\DayGram-master\app\build\intermediates\exploded-aar\com.android.support\support-media-compat\24.2.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.2"
+        sha1="09b462bbcb77650284bd6614f1a32f360ef369f8">
+        <dex dex="F:\Android\DayGram-master\app\build\intermediates\pre-dexed\debug\com.android.support-support-media-compat-24.2.1_4d3f7fd972afbed3171e57849ef03fd66a5f7ecf.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="F:\Android\DayGram-master\app\build\intermediates\exploded-aar\com.android.support\animated-vector-drawable\24.2.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.2"
+        sha1="94bc1dfb84dcc8b6f6f8f7cc726d7b2dd39c1574">
+        <dex dex="F:\Android\DayGram-master\app\build\intermediates\pre-dexed\debug\com.android.support-animated-vector-drawable-24.2.1_dc2c2278f16c8761546e31d856b6efacb50d7273.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="F:\Android\DayGram-master\app\build\intermediates\exploded-aar\com.android.support\support-fragment\24.2.1\jars\libs\internal_impl-24.2.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.2"
+        sha1="5f64d657e838e8375135c0f6057a7ff8fab6a50e">
+        <dex dex="F:\Android\DayGram-master\app\build\intermediates\pre-dexed\debug\internal_impl-24.2.1_dff8c862e3272ee3e69e19aae3765f3950b008ca.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="F:\Android\DayGram-master\app\build\intermediates\exploded-aar\com.android.support\support-core-ui\24.2.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.2"
+        sha1="e7f3132168957eefc46229fc32c3bd464642b71e">
+        <dex dex="F:\Android\DayGram-master\app\build\intermediates\pre-dexed\debug\com.android.support-support-core-ui-24.2.1_783c730aa99dc6d89501aa0ce55cd958836ae5a1.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="F:\Android\DayGram-master\app\build\intermediates\exploded-aar\com.android.support\support-v4\24.2.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.2"
+        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
+        <dex dex="F:\Android\DayGram-master\app\build\intermediates\pre-dexed\debug\com.android.support-support-v4-24.2.1_c3c96f087c1836b2dbd83721933d9f6cb65ad4ef.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="F:\Android\DayGram-master\app\build\intermediates\exploded-aar\com.android.support\support-core-utils\24.2.1\jars\libs\internal_impl-24.2.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.2"
+        sha1="935a969265b2a166b2d20415423f5f6e90fe16e0">
+        <dex dex="F:\Android\DayGram-master\app\build\intermediates\pre-dexed\debug\internal_impl-24.2.1_d794d5c2e433c1bb2c32864f109e0f1658d2fbd9.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="F:\Android\DayGram-master\app\build\intermediates\exploded-aar\com.android.support\support-compat\24.2.1\jars\libs\internal_impl-24.2.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.2"
+        sha1="7e4389bd133359a2ff88623ff1e4ff93d6e6f780">
+        <dex dex="F:\Android\DayGram-master\app\build\intermediates\pre-dexed\debug\internal_impl-24.2.1_19cb982936d2974ada128a5db8f76f984a3df380.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Administrator\AppData\Local\Android\sdk\extras\android\m2repository\com\android\support\support-annotations\24.2.1\support-annotations-24.2.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.2"
+        sha1="8de3aafecbdf98a61db6427f008f2d515bcd2544">
+        <dex dex="F:\Android\DayGram-master\app\build\intermediates\pre-dexed\debug\support-annotations-24.2.1_1d559e7ed20d144e0afcd6b12511adab899fb1e6.jar" />
+    </item>
+
+</items>
